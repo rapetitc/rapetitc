@@ -1,0 +1,12 @@
+{
+  "name": "rapetitc",
+  "version": "1.0.0",
+  "description": "rapetitc's website",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@rapetitc",
+  "license": "ISC"
+}
